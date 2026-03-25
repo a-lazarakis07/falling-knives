@@ -1,5 +1,3 @@
-# falling-knives
-
 # Catching Falling Knives: Mean Reversion in Extreme Equity Drawdowns
 
 **Author:** Angela Lazarakis  
